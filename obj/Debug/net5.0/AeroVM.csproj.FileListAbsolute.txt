@@ -1,0 +1,16 @@
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.exe
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.deps.json
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.runtimeconfig.json
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.runtimeconfig.dev.json
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.dll
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\ref\AeroVM.dll
+C:\Users\79333\source\repos\AeroVM\bin\Debug\net5.0\AeroVM.pdb
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.csproj.AssemblyReference.cache
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.AssemblyInfoInputs.cache
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.AssemblyInfo.cs
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.csproj.CoreCompileInputs.cache
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.dll
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\ref\AeroVM.dll
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.pdb
+C:\Users\79333\source\repos\AeroVM\obj\Debug\net5.0\AeroVM.genruntimeconfig.cache
